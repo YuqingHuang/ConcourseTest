@@ -2,5 +2,5 @@
 inputs:
 - {name: kepler_api}
 platform: linux
-run: {path: echo, args: ["Hello, world!"]}
+run: {path: mkdir, args: ["folder"]}
 
